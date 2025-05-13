@@ -1,14 +1,20 @@
-Best sequence: [1, 2, 3, 0]
-Best makespan: 275.0
+Best sequence (makespan): [1, 2, 3, 0]
+Best makespan: 233.0
 Objectives per iteration:
-Iter 0: Q=338.00, E=5.8567, C_sup=303.00, Sum_t_m=268.00
-Iter 1: Q=338.00, E=5.8100, C_sup=275.00, Sum_t_m=212.00
-Iter 2: Q=338.00, E=5.8217, C_sup=282.00, Sum_t_m=226.00
-Iter 3: Q=338.00, E=5.8500, C_sup=299.00, Sum_t_m=260.00
-Iter 4: Q=338.00, E=5.8383, C_sup=292.00, Sum_t_m=246.00
-Iter 5: Q=338.00, E=5.8733, C_sup=313.00, Sum_t_m=288.00
-Iter 6: Q=338.00, E=5.8367, C_sup=291.00, Sum_t_m=244.00
-Iter 7: Q=338.00, E=5.8433, C_sup=295.00, Sum_t_m=252.00
-Iter 8: Q=338.00, E=5.8750, C_sup=314.00, Sum_t_m=290.00
-Iter 9: Q=338.00, E=5.8100, C_sup=275.00, Sum_t_m=212.00
-Iter 10: Q=338.00, E=5.8567, C_sup=303.00, Sum_t_m=268.00
+Iter 0: Q=376.67, E=5.1274, C_sup=340.75, Sum_t_m=304.83
+Iter 1: Q=337.08, E=5.4110, C_sup=301.17, Sum_t_m=265.25
+Iter 2: Q=300.00, E=5.6768, C_sup=264.08, Sum_t_m=228.17
+Iter 3: Q=300.00, E=5.6285, C_sup=235.08, Sum_t_m=170.17
+Iter 4: Q=297.92, E=5.6434, C_sup=233.00, Sum_t_m=168.08
+Iter 5: Q=300.08, E=5.6416, C_sup=233.00, Sum_t_m=165.92
+Iter 6: Q=297.92, E=5.6434, C_sup=233.00, Sum_t_m=168.08
+Iter 7: Q=303.58, E=5.6387, C_sup=233.00, Sum_t_m=162.42
+Iter 8: Q=297.92, E=5.6434, C_sup=233.00, Sum_t_m=168.08
+Iter 9: Q=281.67, E=5.7869, C_sup=233.00, Sum_t_m=184.33
+Iter 10: Q=283.83, E=5.7851, C_sup=233.00, Sum_t_m=182.17
+
+Best Q: 281.67 
+Best E: 5.1274 
+Best C_sup: 233.00
+Best Sum_t_m: 162.42
+
